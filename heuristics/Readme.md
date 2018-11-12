@@ -18,3 +18,4 @@
 [Лекція 1](./lecture1.md)
 [Лекція 3](./lecture3.md)
 [Лекція 4](./lecture4.md)
+[Лекція 5](./lecture5.md)
